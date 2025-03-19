@@ -4,3 +4,7 @@
 ```python
 print("mbapppee")
 ```
+
+-  play football
+- [X] eat pups
+-  teach c 
