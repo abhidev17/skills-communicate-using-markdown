@@ -5,6 +5,7 @@
 print("mbapppee")
 ```
 
--  play football
-- [X] eat pups
--  teach c 
+```markdown
+- [x] Learn Markdown basics
+- [ ] Create a GitHub repository
+- [ ] Publish a GitHub Pages site
